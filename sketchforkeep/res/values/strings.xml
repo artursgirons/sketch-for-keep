@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sketch for Keep</string>
+    <string name="app_label">Sketch</string>
+    <string name="install_keep">Install Google Keep</string>
+    <string name="Install_handrite">Install Handraw</string>
+    <string name="missing_apps">To use this app you must have Google Keep and Handraw apps installed</string>
+</resources>
